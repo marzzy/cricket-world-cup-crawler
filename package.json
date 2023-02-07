@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "jsdom": "^21.1.0",
+    "node-fetch": "^3.3.0"
+  },
+  "name": "my-crawl",
+  "version": "1.0.0",
+  "description": "crawl cricket world cup result",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC"
+}
